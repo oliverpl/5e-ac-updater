@@ -1,0 +1,9 @@
+{
+    "name": "5e-ac-updater",
+    "title": "D&D 5e - AC Updater",
+    "description": "A simple, lightweight, module to automatically update AC based on the default actor sheets.",
+    "author": "Huggable Badger",
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.7.5",
+    "system": "dnd5e"
+}
